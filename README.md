@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img alt="Happy" title="Happy" src=".public/images/logo.svg" />
+</h1>
+
+
 ## 💻 Projeto
 
 O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
