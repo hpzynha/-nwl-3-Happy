@@ -25,3 +25,4 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
+<p align="center">Desenvolvido com 💜 por Hpzynha</p>
